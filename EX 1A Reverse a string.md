@@ -17,7 +17,7 @@ To write a program to create a recursive function to reverse a string.
 
 ## Program:
 ```
-/*
+
 Program to implement Reverse a String
 Developed by: harithashree
 Register Number: 212222230046
@@ -30,7 +30,7 @@ def reverse_string(s):
 input_string = input()
 reversed_string = reverse_string(input_string)
 print(reversed_string)
-*/
+
 ```
 
 ## Output:
